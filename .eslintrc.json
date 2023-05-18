@@ -5,7 +5,8 @@
       {
         "endOfLine": "auto"
       }
-    ]
+    ],
+    "camelcase": "off"
   },
   "extends": [
     "@rocketseat/eslint-config/node"
